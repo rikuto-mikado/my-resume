@@ -1,0 +1,97 @@
+{
+  "name": "Rikuto Mikado",
+  "title": "Full-stack Developer",
+  "profile": "An 18-year-old freelance full-stack developer specializing in web production. I am currently expanding my skillset by actively learning backend development using Python and Django.",
+  "contact": {
+    "location": "Sapporo, Japan",
+    "email": "mikadorikuto@gmail.com",
+    "phone": "+81-80-9506-6444",
+    "github": "github.com/rikuto-mikado",
+    "linkedin": "linkedin.com/in/rikuto-mikado/"
+  },
+  "skills": {
+    "Frontend": [
+      "Bootstrap",
+      "CSS",
+      "HTML",
+      "JavaScript",
+      "jQuery",
+      "React",
+      "Sass",
+      "Tailwind",
+      "Vue.js"
+    ],
+    "Frameworks": [
+      "Django",
+      "Express",
+      "Flask",
+      "Node.js",
+      "Python",
+      "Vite"
+    ],
+    "Databases": [
+      "PostgreSQL",
+      "SQLite"
+    ],
+    "Cloud & DevOps": [
+      "Docker",
+      "Git",
+      "Vercel"
+    ],
+    "Tools": [
+      "Figma",
+      "GitHub",
+      "Postman",
+      "VSCode",
+      "WordPress"
+    ]
+  },
+  "languages": [
+    {
+      "name": "日本語",
+      "level": 100
+    },
+    {
+      "name": "English",
+      "level": 60
+    },
+    {
+      "name": "Spanish",
+      "level": 10
+    }
+  ],
+  "education": [
+    {
+      "degree": "",
+      "institution": "",
+      "period": "",
+      "description": ""
+    }
+  ],
+  "work_history": [
+    {
+      "position": "",
+      "company": "",
+      "period": "",
+      "responsibilities": [
+        ""
+      ],
+      "stack": ""
+    }
+  ],
+  "certifications": [
+    {
+      "name": "The Complete Python Bootcamp From Zero to Hero in Python",
+      "issuer": "Udemy",
+      "date": "May 2025",
+      "url": "ude.my/UC-2564e4fc-d6d2-4262-9340-eaef1bad0f2c"
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "description": "",
+      "technologies": [""]
+    }
+  ]
+}
